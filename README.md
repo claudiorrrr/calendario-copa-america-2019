@@ -13,8 +13,12 @@ Es el calendario completo de la Copa América de Brasil 2019 en formato electró
 ## ¿Cómo se usa?
 
 Bueno, depende de tu cliente de calendario. En simple, puedes descargar el calendario en los siguientes dos formatos:
-* Formato iCal (sirve para OSX, importable en Google calendar, etc.): [Descargar](https://github.com/claudioruiz/calendario-copa-america-2019/raw/master/calendario.ics)
-* Formato CSV (crudo, básicamente): [Descargar](https://github.com/claudioruiz/calendario-copa-america-2019/raw/master/calendario.csv)
+
+* Si usas [Google Calendar](https://calendar.google.com), en la barra de la izquierda vas a ver, justo abajo de "My Calendars" un signo más (+) al lado de Other Calendars. Ahí ve a la opción "From URL" y agrega esta dirección para suscribirte: ´´´https://github.com/claudioruiz/calendario-copa-america-2019/raw/master/calendario.ics´´´
+
+![](/from_url.png)
+
+* Si estás en tu teléfono (al menos en iOS), debería bastar [con hacer click aquí](https://github.com/claudioruiz/calendario-copa-america-2019/raw/master/calendario.ics)
 
 ## ¿Hay algún error?
 
