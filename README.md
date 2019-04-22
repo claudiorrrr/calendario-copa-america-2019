@@ -18,7 +18,7 @@ Bueno, depende de tu cliente de calendario. En simple, puedes descargar el calen
 
 ![https://calendar.google.com/calendar/r/settings/addbyurl](/from_url.png)
 
-* Si estás en tu teléfono (al menos en iOS), debería bastar [con hacer click aquí](https://raw.githubusercontent.com/claudioruiz/calendario-copa-america-2019/master/copa_america_2019.ics)
+* Si estás en tu teléfono (al menos en iOS), Settings > Passwords & Accounts > Add Account > Other > Add Subscribed Calendar y ahí agregar esto `https://raw.githubusercontent.com/claudioruiz/calendario-copa-america-2019/master/copa_america_2019.ics`
 
 ## ¿Hay algún error?
 
