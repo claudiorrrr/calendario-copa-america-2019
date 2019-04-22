@@ -1,5 +1,7 @@
 # Calendario :soccer: Copa América :calendar:
 
+![](https://upload.wikimedia.org/wikipedia/en/0/07/Copa_Am%C3%A9rica_2019_logo.png)
+
 ## ¿Por qué?
 
 Hace 4 años atrás, para la Copa América 2015, se me ocurrió compartir algo que hago usualmente para mi propio beneficio. A quién no le ha pasado que, sin aviso, se encuentra de frente con un compromiso que no puede deshacer y que coincide con ese partido que has esperado meses por ver. Este es un esfuerzo para evitar que eso suceda. Simple.
@@ -28,3 +30,5 @@ Puede que se me haya extraviado un partido, haya una falta de ortografía o algu
 [Creative Commons CC0 - 1.0 Universal](https://github.com/claudioruiz/copaamerica2015/blob/master/LICENSE)
 
 Última actualización: 2019-04-22
+
+
