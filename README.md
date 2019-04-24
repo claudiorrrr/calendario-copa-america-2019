@@ -20,6 +20,8 @@ Bueno, depende de tu cliente de calendario. En simple, puedes descargar el calen
 
 * Si estás en tu teléfono (al menos en iOS), Settings > Passwords & Accounts > Add Account > Other > Add Subscribed Calendar y ahí agregar esto `https://raw.githubusercontent.com/claudioruiz/calendario-copa-america-2019/master/copa_america_2019.ics`
 
+* Supongo que debe ser bien parecido en Android, pero no tengo cómo saber (de seguro es la misma dirección la que tienes que agregar). 
+
 ## ¿Hay algún error?
 
 Puede que se me haya extraviado un partido, haya una falta de ortografía o alguna mejor que hacer. Si ese es el caso, ayúdame a mejorar estos archivos clonando el repositorio y haciendo un push request.
