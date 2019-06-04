@@ -1,6 +1,6 @@
 # Calendario :soccer: Copa América :calendar:
 
-![](https://upload.wikimedia.org/wikipedia/en/0/07/Copa_Am%C3%A9rica_2019_logo.png)
+![https://en.wikipedia.org/wiki/File:2019_Copa_Am%C3%A9rica_logo.svg](https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/475px-2019_Copa_Am%C3%A9rica_logo.svg.png)
 
 ## ¿Por qué?
 
